@@ -10,4 +10,4 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm a night owl :)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumegh26&theme=nightowl&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumegh26&theme=nightowl&layout=compact)
