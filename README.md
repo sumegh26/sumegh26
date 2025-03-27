@@ -1,7 +1,7 @@
 ### Hi, I'm Sumegh Thale 👋
 
 
-- 🔭 I’m currently working as a software developer at KPIT
+- 🔭 I’m currently working as a Senior software developer at Qorix
 - 🌱 I’m currently learning 𝗣𝘆𝘁𝗵𝗼𝗻, Java, ROS, openCV ,machine learning
 - 👯 I’m looking to collaborate on Django web development
 - 🤔 I’m looking for help with Autonomous navigation systems
